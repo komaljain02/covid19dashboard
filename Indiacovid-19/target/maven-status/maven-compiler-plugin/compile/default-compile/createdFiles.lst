@@ -1,0 +1,9 @@
+com\covid19India\model\TotalVO.class
+com\covid19India\controller\TrackerController.class
+com\covid19India\model\StateVO.class
+com\covid19India\SpringbootHibernateApplication.class
+com\covid19India\service\MapService.class
+com\covid19India\model\IndiaVO.class
+com\covid19India\model\DistirctVO.class
+com\covid19India\service\MapServiceImpl.class
+com\covid19India\model\Delta.class
